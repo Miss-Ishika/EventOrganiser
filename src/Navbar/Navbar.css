@@ -1,0 +1,27 @@
+.nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.3rem 1rem 0.3rem 1rem;
+    font-size: 1rem;
+}
+.nav-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.help{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 3rem;
+}
+.item .icon-name{
+    margin-right: 2rem;
+
+}

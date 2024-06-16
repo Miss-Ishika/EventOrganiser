@@ -1,0 +1,11 @@
+.active-con .cap{
+    font-size: 2rem;
+    color: rgb(195, 193, 193);  
+}
+.active-con .small{
+    color: rgb(195, 193, 193); 
+}
+.active-con{
+    margin-top: 5rem;
+    margin-left: 20rem;
+}

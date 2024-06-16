@@ -1,0 +1,19 @@
+.navi-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navi-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+}
+.navigate{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.school{
+    display: flex;
+}

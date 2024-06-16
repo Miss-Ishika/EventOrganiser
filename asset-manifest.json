@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EventOrganiser/static/css/main.57cda1d8.css",
+    "main.js": "/EventOrganiser/static/js/main.d01469dd.js",
+    "static/js/453.ed3810f9.chunk.js": "/EventOrganiser/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/EventOrganiser/index.html",
+    "main.57cda1d8.css.map": "/EventOrganiser/static/css/main.57cda1d8.css.map",
+    "main.d01469dd.js.map": "/EventOrganiser/static/js/main.d01469dd.js.map",
+    "453.ed3810f9.chunk.js.map": "/EventOrganiser/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57cda1d8.css",
+    "static/js/main.d01469dd.js"
+  ]
+}
